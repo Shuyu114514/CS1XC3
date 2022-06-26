@@ -1,1 +1,10 @@
-test
+cd
+ls
+rm, 
+mv
+exit
+help
+man
+touch
+grep
+pwd
