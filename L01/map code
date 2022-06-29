@@ -1,0 +1,30 @@
+"first room" -> "WesternForest"
+"WesternForest" -> "SpellCastingAcademy"
+"SpellCastingAcademy" -> "PracticeRoom"
+"SpellCastingAcademy" -> "Lessons"
+"PracticeRoom" -> "Box" 
+#end
+
+"first room" -> "NorthernMeadow"
+"NorthernMeadow" -> "EasternMountains"
+"EasternMountains" -> "Cave"
+"Cave" -> "DarkCorridor"
+"Cave" -> "Staircase"
+"DarkCorridor" -> "DankRoom"
+"DankRoom" -> "SmallHole"
+"DankRoom" -> "StoneChamber"
+
+"StoneChamber" -> "Portal"
+"Portal" -> "TownSquare"
+"TownSquare" -> "Marketplace" #end
+"TownSquare" -> "Library"
+"TownSquare" -> "RockyPath"
+"TownSquare" -> "ArtisanShop"
+"TownSquare" -> "BrokenBridge"
+
+"Library" -> "BackRoom" #end
+"RockyPath" -> "Farm"
+"" -> ""
+"" -> ""
+"" -> ""
+"" -> ""
