@@ -1,9 +1,13 @@
 "first room" -> "WesternForest"
+"first room" -> "MagicLocker"
+"first room" -> "MIT"
+"MIT" -> "StataCenter"
+"MIT" -> "AthenaCluster"
+
 "WesternForest" -> "SpellCastingAcademy"
 "SpellCastingAcademy" -> "PracticeRoom"
 "SpellCastingAcademy" -> "Lessons"
 "PracticeRoom" -> "Box" 
-#end
 
 "first room" -> "NorthernMeadow"
 "NorthernMeadow" -> "EasternMountains"
@@ -16,15 +20,20 @@
 
 "StoneChamber" -> "Portal"
 "Portal" -> "TownSquare"
-"TownSquare" -> "Marketplace" #end
+"TownSquare" -> "Marketplace"
 "TownSquare" -> "Library"
 "TownSquare" -> "RockyPath"
 "TownSquare" -> "ArtisanShop"
 "TownSquare" -> "BrokenBridge"
 
-"Library" -> "BackRoom" #end
+"Library" -> "BackRoom"
 "RockyPath" -> "Farm"
-"" -> ""
-"" -> ""
-"" -> ""
-"" -> ""
+"BrokenBridge" -> "Clearing"
+"Clearing" -> "OminousLookingPath"
+"OminousLookingPath" -> "House"
+"OminousLookingPath" -> "CaveOfDisgruntledTrolls"
+"CaveOfDisgruntledTrolls" -> "Cage"
+"CaveOfDisgruntledTrolls" -> "Slide"
+"Slide" -> "KernelFiles"
+"KernelFiles" -> "MoreKernelFiles"
+"KernelFiles" -> "Paradise"
