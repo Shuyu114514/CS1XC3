@@ -1,10 +1,33 @@
-cd
-ls
-rm, 
-mv
-exit
-help
-man
-touch
-grep
-pwd
+1. cd
+"cd x": go to place x.
+
+2. ls
+"ls": show the surround, the places we can go and the items at the current place.
+
+3. rm
+"rm x": delete the item x.
+
+4. mv
+"mv x y": move the item x to the place y.
+
+5. exit
+"exit": will leave the game.
+
+6. man
+"man x": check the usage of the command x.
+"man man": look all comands.
+
+7. touch
+"touch x": create a item x.
+
+8. grep
+"grep x y": search the text x in a given file y.
+
+9. pwd
+"pwd": check the current place.
+
+10. mkdir
+"mkdir x": create a place x.
+
+11. sudo
+"sudo x": sudo access restricted files and operations x.
