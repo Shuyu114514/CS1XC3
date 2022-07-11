@@ -1,0 +1,11 @@
+a
+Recursive is called many more times thane iterative. The repeation of recursive is very instable, because it depends what the number is, and it usually need to repeat a lot. The recursion need to call itself again and again untill the problem is solved. The Iteration just repeat very few time (like 1 or 2 times), it's because the own feature of iteration. We only need to call the iteration one time and it will repeat the calculation untill end.
+
+b
+The most executed line is "}", it repeats many more times than other lines, it is the same in both recursion and iteration.
+
+c
+The commends part are not excecuted.
+
+d
+We used a lot of for loops in our program, it will make more time cost. My suggestion is to use dynamic programming to optimize them, reduce the levels of loops, use more space to decrease the time complexity.

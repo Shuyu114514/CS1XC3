@@ -1,0 +1,9 @@
+Why are all reported time zero?
+Answer: Because the gprof just print the information to the .txt file, it doesn't really cost time to do calculation. Thus the only time cost is to print the text, it just take a extremely short time to execute, which is 0 in computer.
+
+Why is factors_itr called once?
+Answer: factors_itr is a function of iteration, and the iteration is different with recursion, we just need to call the iteration one time and then the functions will repeat the calculation automatically untill it finishs.
+
+Question 3?
+Answer: The bigger input number is more possible to produce a lot of prime factors, it needs more recursions to analysis how many factors there are. So I think there is a incline trendency of the size of input number and the recursion calls.
+

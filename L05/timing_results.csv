@@ -1,0 +1,15 @@
+Search Value,Linear Search,Binary Search,Fibonacci Search,Notes
+1,0m0.007s   , 0m0.012s,0m0.007s,"Linear Search starts at beginning, it simply check all elements are bigger than 1, thus it’s faster than the binary search which start at middle. Fibonacci search is improved from Binary Search, so it is also faster. "
+4,0m0.002s,0m0.013s,0m0.007s,"Same reason as the above. 4 is at the beginning of array, thus Linear Search is most efficient."
+22,0m0.002s,0m0.012s,0m0.008s,"Same reason as the above. 22 is close to the beginning of array, thus Linear Search is most efficient."
+37,0m0.002s,0m0.004s,0m0.009s,"Same reason as the above. 37 is close to the beginning of array, thus Linear Search is most efficient. But this time Fibonacci takes longer time than binary, I thinks that’s because Fibonacci is using special way to cut the whole array, so sometimes it takes longer time than binay."
+22906,0m0.001s,0m0.001s,0m0.007s,"22906 is a quite big number, thus the algorithm of Binary search has a better performance, now it takes the same time as linear search."
+53757,0m0.002s,0m0.002s,0m0.001s,"Same reason as the above, 53757 is a big number, thus the binary search is efficient, and Fibonacci has a good performance too due to the same reason."
+112591,0m0.002s,0m0.016s,0m0.002s,"this time the Binary Search has a bad performance, I thinks it’s just the randomness of computer."
+361940,0m0.001s,0m0.003s,0m0.004s,this makes no sense! 361940 is a big number and binary Search should take less time logically! Maybe this is also the instability of computer.
+475713,0m0.003s,0m0.001s,0m0.002s,this time Binary search performs very good cause 475713 is a big number and close to the middle.
+893766,0m0.012s,0m0.006s,0m0.002s,"Same reason as the above, Binary and Fibonacci have better performances. Fibonacci does best here because it starts at the point close to the end."
+996637,0m0.002s,0m0.001s,0m0.012s,"Binary does good due the the above reason, but Fibonacci isn’t, I guess it’s because the randomness."
+996639,0m0.007s,0m0.001s,0m0.001s,this row typically shows that Binary and Fibonacci do better when the target number close to the end.
+996652,0m0.002s,0m0.013s,0m0.008s,same as the previous number.
+-996652,0m0.002s,0m0.002s,0m0.002s,"-996652 doesn't exist in the array and the number is quite complex. I guess all three algorithm need to check almost whole array, thus they take the similar time to run."

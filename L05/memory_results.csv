@@ -1,0 +1,15 @@
+Search Value,Linear Search,Binary Search,Fibonacci Search,Notes
+1,2236,2284,2240,"they use the almost same memory, I assume that those three algorithms just need to use memory to store the array."
+4,2240,2256,2268,"they use the almost same memory, I assume that those three algorithms just need to use memory to store the array."
+22,2324,2300,2304,"This time they use more memory than previous case, is it because 22 is bigger?"
+37,2232,2304,2312,same as above.
+22906,2272,2224,2228,this time they use smaller memory. 
+53757,2252,2248,2252,same as above.
+112591,2228,2252,2232,same as above.
+361940,2220,2228,2252,same as above.
+475713,2280,2236,2240,same as above and the first two cases.
+893766,2236,2284,2236,"It seems like whatever the cases are and the algorithm is, they all have almost same memory using."
+996637,2228,2300,2248,"So I get a conclusion, the algorithms don’t really need a lot of memory to do calculation or running, they just need to use memory to store array."
+996639,2324,2240,2268,"same memory use, all three algorithm just need memory to store the array."
+996652,2252,2252,2284,"same memory use, all three algorithm just need memory to store the array."
+-996652,2332,2284,2252,"same memory use, all three algorithm just need memory to store the array."
