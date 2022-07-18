@@ -32,5 +32,5 @@ test : all
 	./$(BUILD_DIR)/max 4 3 2 1 5 7 8 10 6 > ./test/max_output.txt
 	diff -bur ./test/max_output.txt ./test_data/max_expected.txt
 	./$(BUILD_DIR)/multiply 2 < ./test_data/multiply_input.txt > ./test/multiply_output.txt
-	diff -bur ./test/max_output.txt ./test_data/max_expected.txt
+	diff -bur ./test/multiply_output.txt ./test_data/multiply_expected.txt
 	rm -r -f test
