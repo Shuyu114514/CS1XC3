@@ -1,0 +1,25 @@
+CC=gcc
+CFLAGS=-Wall
+SRC_DIR=src
+BUILD_DIR=build
+
+library.o : ./$(SRC_DIR)/library.c
+	./Build_Dir.sh $(BUILD_DIR)
+	$(CC) $(CFLAGS) -c -o ./$(BUILD_DIR)/library.o $<
+
+max: ./$(SRC_DIR)/max.c ./$(BUILD_DIR)/library.o
+	./Build_Dir.sh
+	$(CC) $(CFLAGS) -o ./$(BUILD_DIR)/$@ $^
+
+square: ./$(SRC_DIR)/square.c ./$(BUILD_DIR)/library.o
+	./Build_Dir.sh
+	$(CC) $(CFLAGS) -o ./$(BUILD_DIR)/$@ $^
+
+multiply: ./$(SRC_DIR)/multiply.c ./$(BUILD_DIR)/library.o
+	./Build_Dir.sh
+	$(CC) $(CFLAGS) -o ./$(BUILD_DIR)/$@ $^
+
+targets = max multiply square
+all : $(targets)
+clean :
+	rm -r -f $(BUILD_DIR)
