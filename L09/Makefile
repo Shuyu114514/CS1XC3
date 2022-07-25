@@ -3,7 +3,7 @@ CFLAGS=-Wall
 SRC_DIR=src
 BUILD_DIR=build
 
-main: ./$(SRC_DIR)/main.c documentation/docs
+main: ./$(SRC_DIR)/main.c documentation docs course.o student.o
 	./scripts/Build_Dir.sh $(BUILD_DIR)
 	$(CC) $(CFLAGS) -c -o ./$(BUILD_DIR)/$@ $<
 
