@@ -1,3 +1,19 @@
+q1
 find . -name "*.tex"~| xargs grep -rn "\includegraphics"
+q2
 find . -name "*.tex"~| xargs grep -rn "[\]begin{.*}$" | grep -v "[\]begin{.*}{.*}"
+q3
+find . -name ".*"~| xargs grep -rn "arbitrary" && find . -name ".*"~| xargs grep -rn "bitwidth" && find . -name ".*"~| xargs grep -rn "pointer"
+q4
 
+q5
+
+q6
+
+q7
+
+q8
+
+q9
+
+q10
