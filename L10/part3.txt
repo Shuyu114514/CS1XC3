@@ -3,17 +3,17 @@ find . -name "*.tex"~| xargs grep -rn "\includegraphics"
 q2
 find . -name "*.tex"~| xargs grep -rn "[\]begin{.*}$" | grep -v "[\]begin{.*}{.*}"
 q3
-find . -name ".*"~| xargs grep -rn "arbitrary" && find . -name ".*"~| xargs grep -rn "bitwidth" && find . -name ".*"~| xargs grep -rn "pointer"
+find . -name ".*"~| xargs grep -rnw "\(arbitrary\|pointer\|bitwidth\)"
 q4
-
+find . -name ".*"~| xargs grep -rnw "\(to be\|being\|been\|am\|are\|is\|be\|was\|were\|will be\|have been\|has been\|had been\|will have been\)"
 q5
-
+find . -name "*.tex" | pcregrep -Mn "\\\item\n\\\begin{itemize}" *S*.tex
 q6
-
+find . -name ".*"~| xargs grep -rn "\(pointer\|(pointer)\) \(R\|T\|S\|L\|N\|E\)"
 q7
-
+find . -name ".*"~| xargs grep -rnw ".*\(a\|i\|u\|e\|o\A\|I\|U\|E\|O\).*\(a\|i\|u\|e\|o\A\|I\|U\|E\|O\).*"
 q8
-
+find . -name "*.*" | pcregrep -Mn "if (.*) \{(\n)*\}" *.*
 q9
 
 q10
