@@ -1,0 +1,15 @@
+find . -name *.tex
+find . -name *.tex ! -name template.tex
+find . -name *.tex -print0 | xargs -0 wc -l
+find . -name *.tex -o -name *.pdf -o -name *.toc
+find -name "Topic [7-9]*.pdf" -or -name "Topic 1[0-3]*.pdf"
+find . -name *~ -delete
+find . -name "#*" -a -name "*#" -delete
+find . -iname "??????.png" -or -iname "??????.jpg" -or -iname "??????.bmp" -or -iname "?????.webp" >> goodFiles.txt
+find . -name "*.log" ! -name "allTheLogs.log" -type f | xargs cat >> allTheLogs.log
+find . -name "*C*" -and -name "*.aux" -type f | xargs -I x sed -n "10p" x
+find . -name "*.sh" -exec chmod +x {} \;
+find . -type f -name "* and *" | xargs -I x sed -n '1,10p' x  >> allheads.txt
+mkdir image_backup && find . -name "*.png" -exec cp {} image_backup/ \; -o -name "*.jpg" -exec cp {} image_backup/ \; -o -name "*.jpeg" -exec cp {} image_backup/ \; -o -name "*.wedp" -exec cp {} image_backup/ \;
+find . -name "*" && find . -name "*" >> filename.txt
+while read -r line; do find . -type f -name $line; done < allTheGlobs.txt

@@ -1,0 +1,24 @@
+abc
+123
+\.
+[cmf]an or [^drp]an
+[hd]og
+[ABC][anbopc]
+waz{3,5}up
+a{2,4}
+\d+ files? found\[]
+[ \t] or \d\.\s+abc
+^Mission: successful$
+^(file.+)\.pdf$
+(\w+ (\d+))
+(\d+)x(\d+)
+I love (cats|dogs)
+.*
+^-?\d+(,\d+)*(\.\d+(e\d+)?)?$
+1?[\s-]?\(?(\d{3})\)?[\s-]?\d{3}[\s-]?\d{4}
+^([\w\.]*)
+<(\w+)(>| )
+(\w+)\.(jpg|png|gif)$
+^(\s| |\t)*(.*)\s*$
+(\w+)\(([\w\.]+):(\d+)\)
+(\w+)://([\w\-\.]+)(:(\d+))?

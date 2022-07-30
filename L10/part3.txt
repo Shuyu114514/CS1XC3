@@ -1,0 +1,3 @@
+find . -name "*.tex"~| xargs grep -rn "\includegraphics"
+find . -name "*.tex"~| xargs grep -rn "[\]begin{.*}$" | grep -v "[\]begin{.*}{.*}"
+
