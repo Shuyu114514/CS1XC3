@@ -393,7 +393,12 @@ void killTrain(GAME* game) {
 
 	// QUESTION 1-4 GOES HERE
 	game->money+=salePrice;
-	
+	int i = choice;
+	while(game->trains[i] != NULL){
+		game->trains[i] = game->trains[i+1];
+		i+=1;
+	}
+	game->trains = (TRAIN*)realloc(game->trains, (game->numTrains - 1)*sizeof(TRAIN));
 
 	tick(game);
 } // end killTrain
