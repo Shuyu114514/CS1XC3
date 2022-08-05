@@ -394,7 +394,7 @@ void killTrain(GAME* game) {
 	// QUESTION 1-4 GOES HERE
 	game->money+=salePrice;
 	int i = choice;
-	while(game->trains[i] != NULL){
+	while((numTrains - i) > 0){
 		game->trains[i] = game->trains[i+1];
 		i+=1;
 	}
