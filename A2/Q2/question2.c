@@ -6,7 +6,7 @@
 #include <assert.h>
 
 void DMY_MonthDY(char *buffer, const char *str){
-    printf("%s\n", str);
+    //printf("%s\n", str);
     char day[3];
     char month[3];
     char year[5];

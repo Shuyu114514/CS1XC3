@@ -36,7 +36,7 @@ float fkgrade(char str[]){
         }
         i+=1;
     }
-    printf("%d %d %d \n", num_words, num_sentences, num_syllables);
+    //printf("%d %d %d \n", num_words, num_sentences, num_syllables);
     if(num_sentences == 0 || num_words == 0){
         return 0;
     }else{
