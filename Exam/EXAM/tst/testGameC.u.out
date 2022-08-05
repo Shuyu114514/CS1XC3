@@ -1,0 +1,242 @@
+>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<
+
+         Welcome to Transport Tycoon Mini!
+
+>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<
+
+
+Please select game "A" or game "B" >> 
+Initializing Game A, a small game with two cities...
+
+Please choose a company name >> 
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│Since childhood, it has always been your dream to own a mod-│
+│erately successful logistics company.   Four years ago, your│
+│great aunt Prudence died, leaving you a tidy sum of $10,000.│
+│Owing  to the painfully protracted settlement of her estate,│
+│you only received your inheritance last week.   Immediately,│
+│you found the Eagleland National Railway Co.                │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      10000 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : New Pork City   │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (1)             │ Demands (1)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Happy Boxes    ($   100)│> Claymen        ($   250)│ │
+││   100            in stock│                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 345.24, 129.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Tazmily Village │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (1)             │ Demands (1)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Claymen        ($   135)│> Happy Boxes    ($   120)│ │
+││   8              in stock│                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 198.07, 734.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      10000 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> New Pork City 
+> Tazmily Village 
+>> Select a destination
+> Tazmily Village 
+>> Creating a new train route from New Pork City to Tazmily Village
+Distance: 622.273536
+What kind of goods would you like to transport?
+> Happy Boxes 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+Incorrect input, please try again!Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+Incorrect input, please try again!Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $1694 to build.
+Your available funds are $10000
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> LNER Peppercorn A1 0 has arrived at New Pork City <<
+Available Stock of Happy Boxes is 100.
+Purchased full load of 8 for $800.
+Setting off for Tazmily Village!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       7506 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : Happy Boxes                                        │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ New Pork City                          Tazmily Village │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : New Pork City   │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (1)             │ Demands (1)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Happy Boxes    ($   100)│> Claymen        ($   250)│ │
+││   100            in stock│                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 345.24, 129.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Tazmily Village │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (1)             │ Demands (1)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Claymen        ($   135)│> Happy Boxes    ($   120)│ │
+││   12             in stock│                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 198.07, 734.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       7506 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : Happy Boxes                                        │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ New Pork City                          Tazmily Village │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       7506 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : Happy Boxes                                        │
+│              ⛟                                         │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ New Pork City                          Tazmily Village │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Terminating Transport Tycoon Mini...

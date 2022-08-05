@@ -1,0 +1,3478 @@
+>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<
+
+         Welcome to Transport Tycoon Mini!
+
+>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<
+
+
+Please select game "A" or game "B" >> 
+Initializing Game B, a large game with four cities...
+
+Please choose a company name >> 
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│Since childhood, it has always been your dream to own a mod-│
+│erately successful logistics company.   Four years ago, your│
+│great aunt Prudence died, leaving you a tidy sum of $10,000.│
+│Owing  to the painfully protracted settlement of her estate,│
+│you only received your inheritance last week.   Immediately,│
+│you found the Eagleland National Railway Co.                │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      10000 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : Onett           │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Traffic Cop    ($    95)│> Insane Cultist ($    85)│ │
+││   5              in stock│                          │ │
+││> ManiManiStatue ($250000)│> Saturn Coffee  ($    30)│ │
+││   1              in stock│                          │ │
+││                          │> Mach Pizza     ($    36)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 452.00, 113.00)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Twoson          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Runaway Five   ($ 10000)│> Zombie         ($    10)│ │
+││   1              in stock│                          │ │
+││> Insane Cultist ($    45)│> Saturn Coffee  ($    25)│ │
+││   100            in stock│                          │ │
+││                          │> Mach Pizza     ($    32)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($  1055)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 167.30,  94.20)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 2 : Threed          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (3)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Zombie         ($   -20)│> Traffic Cop    ($   175)│ │
+││   240            in stock│                          │ │
+││> Fly Honey      ($   240)│> Insane Cultist ($   105)│ │
+││   75             in stock│                          │ │
+││> Saturn Coffee  ($    20)│> Mach Pizza     ($    36)│ │
+││   350            in stock│                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : (  98.14, 434.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 3 : Fourside        │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (5)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Mach Pizza     ($    14)│> Runaway Five   ($ 50000)│ │
+││   1000           in stock│                          │ │
+││> LifenoodlesCup ($   625)│> ManiManiStatue ($999999)│ │
+││   50             in stock│                          │ │
+││                          │> Traffic Cop    ($   250)│ │
+││                          │                          │ │
+││                          │> Saturn Coffee  ($    50)│ │
+││                          │                          │ │
+││                          │> Zombie         ($     5)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 204.80, 812.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      10000 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Onett 
+> Twoson 
+> Threed 
+>> Creating a new train route from Fourside to Twoson
+Distance: 719.178344
+What kind of goods would you like to transport?
+> Mach Pizza 
+> LifenoodlesCup 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $4526 to build.
+Your available funds are $10000
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 50.
+Purchased 8 for $5000.
+Setting off for Twoson!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $        474 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 8440!
+Heading back to Fourside!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       8914 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : Onett           │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Traffic Cop    ($    95)│> Insane Cultist ($    85)│ │
+││   28             in stock│                          │ │
+││> ManiManiStatue ($250000)│> Saturn Coffee  ($    30)│ │
+││   1              in stock│                          │ │
+││                          │> Mach Pizza     ($    36)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 452.00, 113.00)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Twoson          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Runaway Five   ($ 10000)│> Zombie         ($    10)│ │
+││   1              in stock│                          │ │
+││> Insane Cultist ($    45)│> Saturn Coffee  ($    25)│ │
+││   330            in stock│                          │ │
+││                          │> Mach Pizza     ($    32)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($  1055)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 167.30,  94.20)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 2 : Threed          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (3)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Zombie         ($   -20)│> Traffic Cop    ($   175)│ │
+││   930            in stock│                          │ │
+││> Fly Honey      ($   240)│> Insane Cultist ($   105)│ │
+││   305            in stock│                          │ │
+││> Saturn Coffee  ($    20)│> Mach Pizza     ($    36)│ │
+││   810            in stock│                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : (  98.14, 434.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 3 : Fourside        │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (5)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Mach Pizza     ($    14)│> Runaway Five   ($ 50000)│ │
+││   1276           in stock│                          │ │
+││> LifenoodlesCup ($   625)│> ManiManiStatue ($999999)│ │
+││   88             in stock│                          │ │
+││                          │> Traffic Cop    ($   250)│ │
+││                          │                          │ │
+││                          │> Saturn Coffee  ($    50)│ │
+││                          │                          │ │
+││                          │> Zombie         ($     5)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 204.80, 812.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       8914 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Twoson 
+> Threed 
+> Fourside 
+>> Creating a new train route from Onett to Fourside
+Distance: 741.800647
+What kind of goods would you like to transport?
+> Traffic Cop 
+> ManiManiStatue 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $7667 to build.
+Your available funds are $8914
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 28.
+Purchased 13 for $1235.
+Setting off for Fourside!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $         12 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                                   ⛟    │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 130.
+Purchased 0 for $0.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 3250!
+Heading back to Onett!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       3262 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                ⛟                                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 0!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 69.
+Purchased 34 for $3230.
+Setting off for Fourside!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $         32 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                           ⛟                            │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 218.
+Purchased 0 for $0.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 8500!
+Heading back to Onett!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       8532 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                        ⛟               │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Onett 
+> Twoson 
+> Fourside 
+>> Creating a new train route from Threed to Twoson
+Distance: 346.786300
+What kind of goods would you like to transport?
+> Zombie 
+> Fly Honey 
+> Saturn Coffee 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $4902 to build.
+Your available funds are $8532
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 3390.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       4710 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                          ⛟             │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                                    ⛟   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 0!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 89.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 4116.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 306.
+Purchased 1 for $625.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 1055!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 4842.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 393.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 5568.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 89.
+Purchased 35 for $3325.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      25905 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                     ⛟                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                         ⛟              │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                ⛟                                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : Onett           │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Traffic Cop    ($    95)│> Insane Cultist ($    85)│ │
+││   75             in stock│                          │ │
+││> ManiManiStatue ($250000)│> Saturn Coffee  ($    30)│ │
+││   1              in stock│                          │ │
+││                          │> Mach Pizza     ($    36)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 452.00, 113.00)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Twoson          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Runaway Five   ($ 10000)│> Zombie         ($    10)│ │
+││   1              in stock│                          │ │
+││> Insane Cultist ($    45)│> Saturn Coffee  ($    25)│ │
+││   2160           in stock│                          │ │
+││                          │> Mach Pizza     ($    32)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($  1055)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 167.30,  94.20)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 2 : Threed          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (3)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Zombie         ($   -20)│> Traffic Cop    ($   175)│ │
+││   6204           in stock│                          │ │
+││> Fly Honey      ($   240)│> Insane Cultist ($   105)│ │
+││   2135           in stock│                          │ │
+││> Saturn Coffee  ($    20)│> Mach Pizza     ($    36)│ │
+││   4470           in stock│                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : (  98.14, 434.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 3 : Fourside        │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (5)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Mach Pizza     ($    14)│> Runaway Five   ($ 50000)│ │
+││   3472           in stock│                          │ │
+││> LifenoodlesCup ($   625)│> ManiManiStatue ($999999)│ │
+││   429            in stock│                          │ │
+││                          │> Traffic Cop    ($   250)│ │
+││                          │                          │ │
+││                          │> Saturn Coffee  ($    50)│ │
+││                          │                          │ │
+││                          │> Zombie         ($     5)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 204.80, 812.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      25905 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                     ⛟                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                         ⛟              │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                ⛟                                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Onett 
+> Threed 
+> Fourside 
+>> Creating a new train route from Twoson to Threed
+Distance: 346.786300
+What kind of goods would you like to transport?
+> Runaway Five 
+> Insane Cultist 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $4902 to build.
+Your available funds are $25905
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 2160.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      18573 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                  ⛟                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                           ⛟            │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│           ⛟                                            │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Onett 
+> Twoson 
+> Fourside 
+>> Creating a new train route from Threed to Fourside
+Distance: 393.125654
+What kind of goods would you like to transport?
+> Zombie 
+> Fly Honey 
+> Saturn Coffee 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $5226 to build.
+Your available funds are $18573
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 4490.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      12267 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                ⛟                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                             ⛟          │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│       ⛟                                                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│      ⛟                                                 │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Onett 
+> Twoson 
+> Threed 
+>> Creating a new train route from Fourside to Threed
+Distance: 393.125654
+What kind of goods would you like to transport?
+> Mach Pizza 
+> LifenoodlesCup 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $5226 to build.
+Your available funds are $12267
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> BR Britannia 5 has arrived at Fourside <<
+Available Stock of Mach Pizza is 3496.
+Purchased full load of 54 for $756.
+Setting off for Threed!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $       6285 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                              ⛟                         │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                               ⛟        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│   ⛟                                                    │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│          ⛟                                             │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│     ⛟                                                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Mach Pizza                                         │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Threed │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 6294.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 8750!
+Heading back to Onett!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 457.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+>> BR Britannia 5 has arrived at Threed <<
+Threed pays 36 for each Mach Pizza.
+Cargo sold for 1944!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 2366.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 7020.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 4996.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 5 has arrived at Fourside <<
+Available Stock of Mach Pizza is 3778.
+Purchased full load of 54 for $756.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 5 has arrived at Threed <<
+Threed pays 36 for each Mach Pizza.
+Cargo sold for 1944!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 2572.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 7746.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 5502.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 521.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+>> BR Britannia 5 has arrived at Fourside <<
+Available Stock of Mach Pizza is 4060.
+Purchased full load of 54 for $756.
+Setting off for Threed!
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 5 has arrived at Threed <<
+Threed pays 36 for each Mach Pizza.
+Cargo sold for 1944!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 2778.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 8472.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 6008.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 5 has arrived at Fourside <<
+Available Stock of Mach Pizza is 4342.
+Purchased full load of 54 for $756.
+Setting off for Threed!
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 5 has arrived at Threed <<
+Threed pays 36 for each Mach Pizza.
+Cargo sold for 1944!
+Heading back to Fourside!
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 585.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      58853 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                               ⛟                        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                    ⛟                                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│       ⛟                                                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                          ⛟             │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Mach Pizza                                         │
+│                                              ⛟         │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Threed │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : Onett           │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Traffic Cop    ($    95)│> Insane Cultist ($    85)│ │
+││   70             in stock│                          │ │
+││> ManiManiStatue ($250000)│> Saturn Coffee  ($    30)│ │
+││   1              in stock│                          │ │
+││                          │> Mach Pizza     ($    36)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 452.00, 113.00)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Twoson          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Runaway Five   ($ 10000)│> Zombie         ($    10)│ │
+││   1              in stock│                          │ │
+││> Insane Cultist ($    45)│> Saturn Coffee  ($    25)│ │
+││   2974           in stock│                          │ │
+││                          │> Mach Pizza     ($    32)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($  1055)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 167.30,  94.20)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 2 : Threed          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (3)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Zombie         ($   -20)│> Traffic Cop    ($   175)│ │
+││   9078           in stock│                          │ │
+││> Fly Honey      ($   240)│> Insane Cultist ($   105)│ │
+││   3165           in stock│                          │ │
+││> Saturn Coffee  ($    20)│> Mach Pizza     ($    36)│ │
+││   6314           in stock│                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : (  98.14, 434.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 3 : Fourside        │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (5)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Mach Pizza     ($    14)│> Runaway Five   ($ 50000)│ │
+││   4492           in stock│                          │ │
+││> LifenoodlesCup ($   625)│> ManiManiStatue ($999999)│ │
+││   563            in stock│                          │ │
+││                          │> Traffic Cop    ($   250)│ │
+││                          │                          │ │
+││                          │> Saturn Coffee  ($    50)│ │
+││                          │                          │ │
+││                          │> Zombie         ($     5)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 204.80, 812.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      58853 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                               ⛟                        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                    ⛟                                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│       ⛟                                                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                          ⛟             │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Mach Pizza                                         │
+│                                              ⛟         │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Threed │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Onett 
+> Threed 
+> Fourside 
+>> Creating a new train route from Twoson to Fourside
+Distance: 719.178344
+What kind of goods would you like to transport?
+> Runaway Five 
+> Insane Cultist 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $1888 to build.
+Your available funds are $58853
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> LNER Peppercorn A1 6 has arrived at Twoson <<
+Available Stock of Runaway Five is 1.
+Purchased 1 for $10000.
+Setting off for Fourside!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      46965 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│    ⛟                                                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                 ⛟                      │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                ⛟                                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│   ⛟                                                    │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                       ⛟                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Mach Pizza                                         │
+│                                          ⛟             │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 6 : Runaway Five                                       │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 2984.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 9198.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 6514.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+>> BR Britannia 5 has arrived at Fourside <<
+Available Stock of Mach Pizza is 4624.
+Purchased full load of 54 for $756.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 5 has arrived at Threed <<
+Threed pays 36 for each Mach Pizza.
+Cargo sold for 1944!
+Heading back to Fourside!
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 3190.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 9924.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 7020.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 5 has arrived at Fourside <<
+Available Stock of Mach Pizza is 4906.
+Purchased full load of 54 for $756.
+Setting off for Threed!
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 649.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> LNER Peppercorn A1 6 has arrived at Fourside <<
+Fourside pays 50000 for each Runaway Five.
+Cargo sold for 50000!
+Heading back to Twoson!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $     126347 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│           ⛟                                            │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                   ⛟                                    │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                                     ⛟                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                        ⛟                               │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                   ⛟                    │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Mach Pizza                                         │
+│                               ⛟                        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 6 : Runaway Five                                       │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Which train would you like to decommission?
+Select train by route number.
+>> 
+Selling this line will recoup $237.
+Do you wish to proceed?
+(Y/N)? >> 
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $     126584 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│             ⛟                                          │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                     ⛟                                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                                ⛟                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                    ⛟                                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                       ⛟                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Runaway Five                                       │
+│                                                    ⛟   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : Onett           │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Traffic Cop    ($    95)│> Insane Cultist ($    85)│ │
+││   65             in stock│                          │ │
+││> ManiManiStatue ($250000)│> Saturn Coffee  ($    30)│ │
+││   1              in stock│                          │ │
+││                          │> Mach Pizza     ($    36)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 452.00, 113.00)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Twoson          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Runaway Five   ($ 10000)│> Zombie         ($    10)│ │
+││   0              in stock│                          │ │
+││> Insane Cultist ($    45)│> Saturn Coffee  ($    25)│ │
+││   3356           in stock│                          │ │
+││                          │> Mach Pizza     ($    32)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($  1055)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 167.30,  94.20)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 2 : Threed          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (3)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Zombie         ($   -20)│> Traffic Cop    ($   175)│ │
+││   10440          in stock│                          │ │
+││> Fly Honey      ($   240)│> Insane Cultist ($   105)│ │
+││   3655           in stock│                          │ │
+││> Saturn Coffee  ($    20)│> Mach Pizza     ($    36)│ │
+││   7186           in stock│                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : (  98.14, 434.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 3 : Fourside        │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (5)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Mach Pizza     ($    14)│> Runaway Five   ($ 50000)│ │
+││   4972           in stock│                          │ │
+││> LifenoodlesCup ($   625)│> ManiManiStatue ($999999)│ │
+││   637            in stock│                          │ │
+││                          │> Traffic Cop    ($   250)│ │
+││                          │                          │ │
+││                          │> Saturn Coffee  ($    50)│ │
+││                          │                          │ │
+││                          │> Zombie         ($     5)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 204.80, 812.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $     126584 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│             ⛟                                          │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                     ⛟                                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                                ⛟                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                    ⛟                                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                       ⛟                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Runaway Five                                       │
+│                                                    ⛟   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 3396.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 10650.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 7526.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 3602.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 11376.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 713.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 8032.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+>> LNER Peppercorn A1 5 has arrived at Twoson <<
+Available Stock of Runaway Five is 0.
+Purchased 0 for $0.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 3808.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 12102.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 8538.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 777.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 4014.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 12828.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> LNER Peppercorn A1 5 has arrived at Fourside <<
+Fourside pays 50000 for each Runaway Five.
+Cargo sold for 0!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $     190964 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                          ⛟             │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│     ⛟                                                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                                                 ⛟      │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                                     ⛟                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│         ⛟                                              │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Runaway Five                                       │
+│                                              ⛟         │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 9044.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 4220.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 13554.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 841.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 9550.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 4426.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 14280.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+>> LNER Peppercorn A1 5 has arrived at Twoson <<
+Available Stock of Runaway Five is 0.
+Purchased 0 for $0.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 10056.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 4632.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 15006.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 905.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 10562.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 4838.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+>> LNER Peppercorn A1 5 has arrived at Fourside <<
+Fourside pays 50000 for each Runaway Five.
+Cargo sold for 0!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 15732.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $     284174 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                     ⛟                  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│            ⛟                                           │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                                            ⛟           │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Runaway Five                                       │
+│                                       ⛟                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Select a city of origin
+> Onett 
+> Twoson 
+> Threed 
+> Fourside 
+>> Select a destination
+> Twoson 
+> Threed 
+> Fourside 
+>> Creating a new train route from Onett to Fourside
+Distance: 741.800647
+What kind of goods would you like to transport?
+> Traffic Cop 
+> ManiManiStatue 
+>> The following trains are available for purchase:
+╒═════════════════════╕
+│ LNER Peppercorn A1  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A small, light train which makes up for it's    │
+│ size by being relatively inexpensive.           │
+│                                                 │ 
+│ Cargo Capacity :     8 units                    │
+│ Speed          :  15.5 km / day                 │
+│ Price          : $ 450                          │
+│ Rail Bed Price : $   2 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ WD Austerity 2-8-0  │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ A fast, medium sized train which efficiently    │
+│ covers long distances. A bit pricier.           │
+│                                                 │ 
+│ Cargo Capacity :    24 units                    │
+│ Speed          :  32.9 km / day                 │
+│ Price          : $1650                          │
+│ Rail Bed Price : $   4 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+╒═════════════════════╕
+│ BR Britannia        │
+┝━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ High capacity train that's still pretty fast.   │
+│                                                 │ 
+│ Cargo Capacity :    54 units                    │
+│ Speed          :  28.1 km / day                 │
+│ Price          : $2475                          │
+│ Rail Bed Price : $   7 / km                     │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+
+Which would you like to purchase?
+> (A) LNER Peppercorn A1
+> (B) WD Austerity 2-8-0
+> (C) BR Britannia
+(A/B/C)? >> 
+This new route will cost $1933 to build.
+Your available funds are $284174
+Do you wish to proceed?
+(Y/N)? >> 
+So let it be written, so let it be done.
+
+>> LNER Peppercorn A1 6 has arrived at Onett <<
+Available Stock of ManiManiStatue is 1.
+Purchased 1 for $250000.
+Setting off for Fourside!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $      32241 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                                  ⛟                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│          ⛟                                             │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                                                ⛟       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                                                 ⛟      │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                                                  ⛟     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Runaway Five                                       │
+│                                      ⛟                 │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 6 : ManiManiStatue                                     │
+│  ⛟                                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 5044.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 11068.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 969.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 16458.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+>> LNER Peppercorn A1 5 has arrived at Twoson <<
+Available Stock of Runaway Five is 0.
+Purchased 0 for $0.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 5250.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 17184.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 11574.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> LNER Peppercorn A1 6 has arrived at Fourside <<
+Fourside pays 999999 for each ManiManiStatue.
+Cargo sold for 999999!
+Heading back to Onett!
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $    1055520 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                         ⛟                              │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                      ⛟                                 │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                               ⛟                        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                                            ⛟           │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                            ⛟                           │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : Runaway Five                                       │
+│                  ⛟                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 6 : ManiManiStatue                                     │
+│                                                     ⛟  │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Which train would you like to decommission?
+Select train by route number.
+>> 
+Selling this line will recoup $43.
+Do you wish to proceed?
+(Y/N)? >> 
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $    1055563 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│                       ⛟                                │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                    ⛟                                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                                   ⛟                    │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                                                ⛟       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                               ⛟                        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : ManiManiStatue                                     │
+│                                                    ⛟   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Wait how many days? (limit 100)
+>> 
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 1033.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 5456.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 17910.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 12080.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 5662.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 18636.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> LNER Peppercorn A1 5 has arrived at Onett <<
+Available Stock of ManiManiStatue is 0.
+Purchased 0 for $0.
+Setting off for Fourside!
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 12586.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 1097.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+One day passes...
+>> BR Britannia 1 has arrived at Onett <<
+Available Stock of Traffic Cop is 108.
+Purchased full load of 54 for $5130.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 5868.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 19362.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Twoson <<
+Twoson pays 1055 for each LifenoodlesCup.
+Cargo sold for 25320!
+Heading back to Fourside!
+One day passes...
+>> BR Britannia 4 has arrived at Threed <<
+Available Stock of Saturn Coffee is 13092.
+Purchased full load of 54 for $1080.
+Setting off for Fourside!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Threed <<
+Threed pays 105 for each Insane Cultist.
+Cargo sold for 5670!
+Heading back to Twoson!
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 2 has arrived at Twoson <<
+Twoson pays 10 for each Zombie.
+Cargo sold for 540!
+Heading back to Threed!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+>> BR Britannia 4 has arrived at Fourside <<
+Fourside pays 50 for each Saturn Coffee.
+Cargo sold for 2700!
+Heading back to Threed!
+One day passes...
+>> BR Britannia 1 has arrived at Fourside <<
+Fourside pays 250 for each Traffic Cop.
+Cargo sold for 13500!
+Heading back to Onett!
+One day passes...
+One day passes...
+>> BR Britannia 3 has arrived at Twoson <<
+Available Stock of Insane Cultist is 6074.
+Purchased full load of 54 for $2430.
+Setting off for Threed!
+One day passes...
+One day passes...
+>> LNER Peppercorn A1 5 has arrived at Fourside <<
+Fourside pays 999999 for each ManiManiStatue.
+Cargo sold for 0!
+Heading back to Onett!
+One day passes...
+>> BR Britannia 2 has arrived at Threed <<
+Available Stock of Zombie is 20088.
+Took a full load of 54 off their hands and received $1080.
+Setting off for Twoson!
+One day passes...
+>> WD Austerity 2-8-0 0 has arrived at Fourside <<
+Available Stock of LifenoodlesCup is 1161.
+Purchased full load of 24 for $15000.
+Setting off for Twoson!
+One day passes...
+One day passes...
+One day passes...
+One day passes...
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $    1104943 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│         ⛟                                              │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                    ⛟                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                  ⛟                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                               ⛟                        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                ⛟                                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : ManiManiStatue                                     │
+│                                                ⛟       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+│ Cities │                                               │
+┝━━━━━━━━┙                                               │
+│╒═════════════════════╕                                 │
+││ 0 : Onett           │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Traffic Cop    ($    95)│> Insane Cultist ($    85)│ │
+││   91             in stock│                          │ │
+││> ManiManiStatue ($250000)│> Saturn Coffee  ($    30)│ │
+││   0              in stock│                          │ │
+││                          │> Mach Pizza     ($    36)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 452.00, 113.00)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 1 : Twoson          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Runaway Five   ($ 10000)│> Zombie         ($    10)│ │
+││   0              in stock│                          │ │
+││> Insane Cultist ($    45)│> Saturn Coffee  ($    25)│ │
+││   6100           in stock│                          │ │
+││                          │> Mach Pizza     ($    32)│ │
+││                          │                          │ │
+││                          │> LifenoodlesCup ($  1055)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 167.30,  94.20)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 2 : Threed          │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (3)             │ Demands (4)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Zombie         ($   -20)│> Traffic Cop    ($   175)│ │
+││   20184          in stock│                          │ │
+││> Fly Honey      ($   240)│> Insane Cultist ($   105)│ │
+││   7155           in stock│                          │ │
+││> Saturn Coffee  ($    20)│> Mach Pizza     ($    36)│ │
+││   13538          in stock│                          │ │
+││                          │> LifenoodlesCup ($   945)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : (  98.14, 434.02)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+│╒═════════════════════╕                                 │
+││ 3 : Fourside        │                                 │
+│┝━━━━━━━━━━━━━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┑ │
+││ Supplies (2)             │ Demands (5)              │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││> Mach Pizza     ($    14)│> Runaway Five   ($ 50000)│ │
+││   9172           in stock│                          │ │
+││> LifenoodlesCup ($   625)│> ManiManiStatue ($999999)│ │
+││   1145           in stock│                          │ │
+││                          │> Traffic Cop    ($   250)│ │
+││                          │                          │ │
+││                          │> Saturn Coffee  ($    50)│ │
+││                          │                          │ │
+││                          │> Zombie         ($     5)│ │
+││                          │                          │ │
+│┝━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┥ │
+││ Location : ( 204.80, 812.40)                        │ │
+│┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙ │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┑
+│          Eagleland National Railway Co. │ $    1104943 │
+┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┥
+│ Trains │                                               │
+┝━━━━━━━━┙                                               │
+│ 0 : LifenoodlesCup                                     │
+│         ⛟                                              │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Fourside                                        Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 1 : Traffic Cop                                        │
+│                                    ⛟                   │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 2 : Zombie                                             │
+│                  ⛟                                     │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                          Twoson │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 3 : Insane Cultist                                     │
+│                               ⛟                        │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Twoson                                          Threed │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 4 : Saturn Coffee                                      │
+│                ⛟                                       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Threed                                        Fourside │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│ 5 : ManiManiStatue                                     │
+│                                                ⛟       │
+│  ╳╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╳  │
+│ Onett                                         Fourside │
+┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
+Options
+> (cities) Display City Information
+> (new) Buy new train
+> (kill) Decommission train
+> (wait) Wait one day
+> (quit) Exit the game
+What would you like to do?
+ >> 
+Terminating Transport Tycoon Mini...

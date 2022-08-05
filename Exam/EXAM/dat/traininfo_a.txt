@@ -1,0 +1,35 @@
++=====================+
+| LNER Peppercorn A1  |
++---------------------+---------------------------+
+| A small, light train which makes up for it's    |
+| size by being relatively inexpensive.           |
+|                                                 | 
+| Cargo Capacity :     8 units                    |
+| Speed          :  15.5 km / day                 |
+| Price          : $ 150                          |
+| Rail Bed Price : $   2 / km                     |
++-------------------------------------------------+
+
++=====================+
+| WD Austerity 2-8-0  |
++---------------------+---------------------------+
+| A fast, medium sized train which efficiently    |
+| covers long distances. A bit pricier.           |
+|                                                 | 
+| Cargo Capacity :    24 units                    |
+| Speed          :  32.9 km / day                 |
+| Price          : $ 450                          |
+| Rail Bed Price : $   4 / km                     |
++-------------------------------------------------+
+
++=====================+
+| BR Britannia        |
++---------------------+---------------------------+
+| High capacity train that's still pretty fast.   |
+|                                                 | 
+| Cargo Capacity :    54 units                    |
+| Speed          :  28.1 km / day                 |
+| Price          : $ 875                          |
+| Rail Bed Price : $   7 / km                     |
++-------------------------------------------------+
+
